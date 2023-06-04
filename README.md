@@ -5,9 +5,11 @@
 ![gh-profile-banner](gh-profile-banner.png)
 
 ## 📍 Living in Mumbai, India
-- I work as a design-centric Android software engineer, focusing on app architecture and utilizing Kotlin for Android app development.
-- Interested in Product Design, Backend Engineering and UI Engineering.
-- General mails at hemantwork24@gmail.com
+
+- 🎓 I'm pursuing my Btech in Information Technology from Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded.
+- ⚒  I work as a design-centric Android software engineer, focusing on app architecture and utilizing Kotlin for Android app development.
+- 🌱 Interested in Product Design, Backend Engineering and UI Engineering.
+- 📫 General mails at hemantwork24@gmail.com
 
 ## Work experience
 - I have 1+ years of experience working on Android development and Web development projects.
@@ -54,6 +56,13 @@
 - Worked on a workout app that helps you incorporate healthy workout habits into your busy schedule. Checkout the app at [7Minute Workout App](https://github.com/HemantBorse247/7-Minute-Workout-App).
 - Participated in a Hackathon organized by TIAA,Pune. Where me and my team worked on developing a Railway ticket booking system. Checkout the project at [Railway booking system](https://github.com/HemantBorse247/railwayBooking).
 
-### Socials
+## Socials
 
-[Twitter/yashsehgaldev](https://twitter.com/yashsehgaldev) &bullet; [LinkedIn/sehgalyash](https://linkedin.com/in/sehgalyash) &bullet; [Instagram/sehgalyash_](https://instagram.com/sehgalyash_) &bullet; [Website/yashsehgal.com](https://yashsehgal.com) &bullet; [Peerlist/yashsehgaldev](https://peerlist.io/yashsehgaldev) &bullet; [Meetings at cal.com/yashsehgal](https://cal.com/yashsehgal)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/hemant-borse-8b794b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant borse" height="30" width="40" /></a>
+<a href="https://twitter.com/h3mantttttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h3mantttttt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hemantb247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemantb247" height="30" width="40" /></a>
+ <a href="https://instagram.com/h3mantttttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h3mantttttt" height="30" width="40" /></a>
+</p>
