@@ -7,14 +7,25 @@
 - Interested in Product Design, Backend Engineering and UI Engineering.
 - General mails at hemantwork24@gmail.com
 
-### Work experience
+## Work experience
 
 - I have 1 year of experience working on android development projects.
 - Checkout my project Motion at [Motion](https://github.com/HemantBorse247/Motion-Pomodoro-App-)
 <!-- - Worked as a Software Engineering Intern at [Clamp](https://joinclamp.com) -->
 <!-- - Worked as a Software Engineering Intern at [economize.cloud](https://economize.cloud) -->
 
-### Projects and showcase
+## Skills
+### App Dev:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
+## Projects and showcase
 - Created a productivity app that incorporates the Pomodoro method, offering a practical solution for effective time management and improved productivity.Checkout the app at [Motion](https://github.com/HemantBorse247/Motion-Pomodoro-App-).
 - Worked on a workout app that helps you incorporate healthy workout habits into your busy schedule. Checkout the app at [7Minute Workout App](https://github.com/HemantBorse247/7-Minute-Workout-App).
 - Participated in a Hackathon organized by TIAA,Pune. Where me and my team worked on developing a Railway ticket booking system. Checkout the project at [Railway booking system](https://github.com/HemantBorse247/railwayBooking).
@@ -36,7 +47,7 @@
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 
- ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
