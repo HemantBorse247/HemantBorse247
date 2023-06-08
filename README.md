@@ -61,8 +61,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/hemant-borse-8b794b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant borse" height="30" width="40" /></a>
-<a href="https://twitter.com/h3mantttttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h3mantttttt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemantb247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemantb247" height="30" width="40" /></a>
- <a href="https://instagram.com/h3mantttttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h3mantttttt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemant-borse-8b794b212/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant borse" height="30" width="40" /></a>
+<a href="https://twitter.com/h3mantttttt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h3mantttttt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hemantb247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemantb247" height="30" width="40" /></a>
+ <a href="https://instagram.com/h3mantttttt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h3mantttttt" height="30" width="40" /></a>
 </p>
